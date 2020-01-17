@@ -10,6 +10,7 @@ def directors_totals(nds)
   total=0
   
   while row_element<nds.length do 
+  
+while
 end
-while 
 end
