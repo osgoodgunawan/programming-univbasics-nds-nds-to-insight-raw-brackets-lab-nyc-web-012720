@@ -6,10 +6,13 @@ pp directors_database
  
 
 def directors_totals(nds)
+  
+  result={}
   outside_index=0
   total=0
   
   while outside_index<nds.length do 
+    
   movies_index=0
   movies_list=nds[outside_index][:movies]
   
@@ -19,6 +22,8 @@ def directors_totals(nds)
      movies_index+=1
       end
       outside_index+=1
+      
 end
+
 total
 end
