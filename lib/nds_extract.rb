@@ -6,8 +6,8 @@ pp directors_database
  
 
 def directors_totals(nds)
-  index_element=0
+  row_element=0
   total=0
-  count=0
-  while count<
+  
+  while row_element<nds[]
 end
