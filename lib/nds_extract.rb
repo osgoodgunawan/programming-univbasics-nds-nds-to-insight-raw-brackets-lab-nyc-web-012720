@@ -6,10 +6,10 @@ pp directors_database
  
 
 def directors_totals(nds)
-  row_element=0
+  outside_index=0
   total=0
   
-  while row_element<nds.length do 
+  while outside_index<nds.length do 
   
 while
 end
