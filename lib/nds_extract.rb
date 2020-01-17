@@ -23,6 +23,7 @@ def directors_totals(nds)
       end
       outside_index+=1
       
+      
 end
 
 total
