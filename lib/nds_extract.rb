@@ -22,7 +22,7 @@ def directors_totals(nds)
      movies_index+=1
       end
       outside_index+=1
-      
+      result[name]=total
       
 end
 
