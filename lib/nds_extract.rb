@@ -9,7 +9,7 @@ def directors_totals(nds)
   
   result={}
   outside_index=0
-  total=0
+  
   
   while outside_index<nds.length do 
   name=nds[outside_index][:name]  
