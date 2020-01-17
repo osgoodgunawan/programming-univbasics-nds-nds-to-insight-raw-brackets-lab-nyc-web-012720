@@ -9,5 +9,7 @@ def directors_totals(nds)
   row_element=0
   total=0
   
-  while row_element<nds[]
+  while row_element<nds.length do 
+end
+while 
 end
